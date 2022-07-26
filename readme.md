@@ -2,7 +2,9 @@
 
 ###
 
-<p align="left">Estudante de Análise e Desenvolvimento de Sistemas, atualmente trabalho como Cabo da Arma de Comunicações do Exército Brasileiro onde pude desenvolver e aprimorar diversos Soft Skills, estou em busca de realizar a minha transição de carreira para a área de Tecnologia da Informação com foco em Desenvolvimento Front-End.</p>
+<p align="left">- Estudante de Análise e Desenvolvimento de sistemas<br>
+- Desenvolvedor Front-end Jr<br>
+- Juiz de Fora - Minas Gerais</p>
 
 ###
 
