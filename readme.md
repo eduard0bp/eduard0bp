@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Estudante de Análise e Desenvolvimento de sistemas<br>
+<p align="left">- Estudante de Análise e Desenvolvimento de Sistemas<br>
 - Desenvolvedor Front-end Jr<br>
 - Juiz de Fora - Minas Gerais</p>
 
