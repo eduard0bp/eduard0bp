@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Estudante de Análise e Desenvolvimento de Sistemas<br>
+<p align="left">- Formado em Análise e Desenvolvimento de Sistemas<br>
 - Desenvolvedor Front-end Jr<br>
 - Juiz de Fora - Minas Gerais</p>
 
@@ -26,7 +26,7 @@
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" width="52" alt="microsoftsqlserver logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"/>        
 </div>
 
 ###
