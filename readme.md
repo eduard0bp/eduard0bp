@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Eduardo Batista</h1>
 <h2 align="center">Desenvolvedor Front-end Jr</h2>
-<h3 align="left">Em transição de carreira para a área de Tecnologia da Informação, com foco em Desenvolvimento
+<p align="left">Em transição de carreira para a área de Tecnologia da Informação, com foco em Desenvolvimento
 Front-End. Abaixo destaco algumas das minhas habilidades técnicas.
 Trabalhei como Cabo da Arma de Comunicações do Exército Brasileiro por 6 anos, onde
 desenvolvi e aprimorei minhas Soft Skills.
 Participei de 2 importantes programas de aceleração em tecnologia, para aperfeiçoar meu
-aprendizado. Os programas estão melhores explicados na seção “experiências” no LinkedIn.</h3>
+aprendizado. Os programas estão melhores explicados na seção “experiências” no LinkedIn.</p>
 <hr>
 
 <h2 align="left">Connect with me:</h2>
